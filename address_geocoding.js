@@ -1,3 +1,8 @@
+/*
+ title: Geocoding of french addresses,
+ description: A script that converts your addresses from France to GPS coordinates
+ author: Benjamin Hatton (https://github.com/basteks/seatable-french-geocoding)
+*/
 //// Script configuration ////
 // Table name
 const tableStr = "Table1";
