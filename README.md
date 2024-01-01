@@ -4,7 +4,7 @@ A [Seatable script](https://developer.seatable.io/scripts/) that allows you to g
 ## Usage
 - the content of the address_geocoding.js  should be copied in a [new JavaScript script](https://seatable.io/en/docs/javascript-python/anlegen-und-loeschen-eines-skriptes/), in your Seatable table.
 
-Then, you will have to set the following information in the upper `//// Script configuration ////` part of the script
+Then, you will have to set the following information in the upper `//// Script configuration ////` part of the script :
 - *Table* : the table containing the addresses to geocode
 - *View* : the appropriate view (you can for example create a filtered view ensuring that the address column is not empty)
 - *Identifier* : a column allowig to identify a specific row
